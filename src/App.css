@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.sign{
+  margin-left: auto;
+}
+.checkout{
+  font-size: small;
+}
+
+Button{
+  display: flex;
+  justify-content: center;
+}
